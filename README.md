@@ -11,6 +11,5 @@ I’m a Computer Engineering student at Sacramento State interested in software,
 ## Featured projects
 
 - [Visit VicterVbot](https://victervbot.com) · [View the VicterVbot repository](https://github.com/Johnboard-cmyk/Victerv)
-- [View the Roblox project repository](https://github.com/Johnboard-cmyk/VicterV)
 
 The Roblox project is an active prototype, with the current work focused on playable systems, island layout, story progression, interactive machinery, and production planning.
